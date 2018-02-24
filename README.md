@@ -1,4 +1,4 @@
-# Takeback_Hackathon
+# Takeback Day Hackathon
 New York Attorney General Eric Schneiderman, in collaboration with Civic Hall and Progressive Hacknight, is organizing a challenge to help improve the efficacy of The National Prescription Drugs Take Back Day. According to the 2015 National Survey on Drug Use and Health, a majority of abused prescription drugs were obtained from family and friends, often from the home medicine cabinet. Take Back Day aims to provide a safe, convenient, and responsible means of disposing of prescription drugs, while also educating the general public about the potential for abuse of medications. 
 
 ### Take Back Day Pre-Hack - February 25
